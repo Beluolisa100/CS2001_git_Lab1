@@ -21,10 +21,15 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+1822554| Shrek |2001
+1822554|Annabelle|2014
+1822554| Borat| 2006
+1822554| Suicide Squad| 2016
+1822554| Shark Tales| 2004
 1945102| Wild Child |2008
 1945102|Game Plan|2008
 1945102|Avatar|2010
-1945102|Avengers|2019 
+1945102|Avengers|2019
 1945102|Hotel for dogs|2010
 1923290|The Shawshank Redemption|1994
 1923290|The Godfather|1972
@@ -51,6 +56,11 @@ Student ID | Movie | Year of Release
 1818316 | Very nice movie | 1994
 1818316 | Super nice movie | 1995
 1818316 | Extremely nice movie | 1996
+1906858|Captain Marvel|2019
+1906858|Avengers: End Game|2019
+1906858|Random Movie|2020
+1906858|White Chicks|2009
+1906858|Life of Pi|2012
 1929348 | Dark Knight | 2009
 1929348| Avengers | 2001
 1929348| Avengers Endgame | 2019
@@ -205,6 +215,11 @@ Student ID | Movie | Year of Release
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
 1924144 | Mommy | 2014
+1910890 | Never Back Down | 2008
+1910890 | Southpaw | 2015
+1910890 | 2 fast 2 furious| 2003
+1910890 | Undisputed 2 | 2006
+1910890 | The Equalizer | 2014
 2016951 | Interstellar | 2014
 2016951 | Inception | 2010
 2016951 | Avatar | 2009
@@ -346,9 +361,14 @@ Student ID | Movie | Year of Release
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
-1812385 | Fast & Furious 7 | 2015 
-1812385 | Logan | 2017 
-1812385 | The Bank Job | 2008 
+1908976 | Tokyo Drift | 2005
+1908976 | The Wolf of Wall Street | 2013
+1908976 | Avengers: End Game | 2019
+1908976 | Inception | 2010
+1908976 | Fast & Furious 5 | 2011
+1812385 | Fast & Furious 7 | 2015
+1812385 | Logan | 2017
+1812385 | The Bank Job | 2008
 1812385 | The Dark Knight | 2008
 1812385 | Avengers Infinity war | 2018
 1805927 | Your Name	| 2016
@@ -384,11 +404,26 @@ Student ID | Movie | Year of Release
 1945381 | Coco | 2017
 1945381 | Little Women | 2019
 1945381 | Onward | 2020
+1840862 | shutter island| 2010
+1840862 | memento | 2000
+1840862 | predestination | 2014
+1840862 | inception | 2010
+1840862 | the shawshank redemption | 1994
+1836704 | Deadpool | 2016
+1836704 | The Gentlemen | 2019
+1836704 | The Lion King | 1994
+1836704 | Guava Island | 2019
+1836704 | Storks | 2016
+1918375 | The Martian | 2015
+1918375 | Interstellar | 2014
+1918375 | Gladiator | 2000
+1918375 | Pokémon: Lucario And The Mystery of Mew | 2005
+1918375 | Dangal | 2016
 1943699 |Mission Impossible | 1996
 1943699 |Mission Impossible 2 | 2000
 1943699 |Mission Impossible 3 | 2006
 1943699 |Mission Impossible 4 | 2011
-1943699 |Age of Ultron| 2015 
+1943699 |Age of Ultron| 2015
 1814493 | One Piece Film: Stampede | 2019
 1814493 | Mama mia! | 2008
 1814493 | Pirates of the Caribbean | 2007
@@ -404,8 +439,76 @@ Student ID | Movie | Year of Release
 1909611 | Movie 3 | 2020
 1909611 | Movie 4 | 2020
 1909611 | Movie 5 | 2020
+1918375 | The Martian | 2015
+1918375 | Interstellar | 2014
+1918375 | Gladiator | 2000
+1918375 | Pokémon: Lucario And The Mystery of Mew | 2005
+1918375 | Dangal | 2016
+1910918 | Avengers:Age of Ultron | 2015
+1910918 | Avengers:End Game | 2019
+1910918 | Avengers:Infinity War | 2018
+1910918 | Avatar | 2009
+1910918 | Inside Out | 2015
 1911252 | Batman Begins | 2005
-1911252 | Avengers Endgame | 2019 
-1911252 | Random movie | 2003 
-1911252 | Random movie | 2004 
-1911252 | Random movie | 2005 
+1911252 | Avengers Endgame | 2019
+1911252 | Random movie | 2003
+1911252 | Random movie | 2004
+1911252 | Random movie | 2005
+1937814 | Good Boys | 2019
+1937814 | Superbad | 2007
+1937814 | The Platform | 2019
+1937814 | Exam | 2009
+1937814 | 22 Jump Street | 2014
+1903966 | Pulp Fiction | 1994
+1903966 | Django Unchained | 2012
+1903966 | Uncut Gems | 2019
+1903966 | 1917 | 2019
+1903966 | Dunkirk | 2017
+1945237 | John Wick | 2014
+1945237 | Kung Fu Hustle| 2004
+1945237 | The Joker | 2019
+1945237 | Wardogs | 2016
+1945237 | The Wolf Of Wall Street | 2013
+1940435 | Joker | 2019
+1940435 | The Devil All The Time | 2020
+1940435 | Indiana Jones: Raiders of The Lost Ark | 1981
+1940435 | Ford v Ferrari | 2019
+1940435 | Django Unchained | 2012
+1940435 | Hateful Eight | 2015
+1911492 | Matilda | 1996
+1911492 | Oceans Eleven | 2001
+1911492 | Troy | 2004
+1911492 | Housefull 4 | 2019
+1911492 | Life of Pi | 2012
+1816426 | Hitch | 2005
+1816426 | Now you see me | 2013
+1816426 | Captain America: The winter soldier|2014
+1816426 | The Dark knight | 2008
+1816426 | The Dark Knight rises | 2012
+1910055 | Avengers Endgame | 2019
+1910055 | A Quiet Place | 2018
+1910055 | Interstellar | 2014
+1910055 | War for the Planet of the Apes | 2017
+1910055 | Avatar | 2009
+1615900 | Resident Evil: Damnation | 2012
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1615900 | Resident Evil: Damnation | 2012 
+1615900 | Resident Evil: Degeneration | 2008
+1615900 | Resident Evil: Vendetta | 2017
+1615900 | Ip Man 3 | 2015
+1615900 | Predators | 2010
+1834210 | Avengers: End Game | 2018
+1834210 | Avengers: Infinity War | 2017
+1834210 | Avengers: Civil War | 2016
+1834210 | Avengers: Age of Ultron | 2015
+1834210 | The Avengers | 2012
+1839606 | John Wick | 2014
+1839606 | Kung Fu Hustle| 2004
+1839606 | The Joker | 2019
+1839606 | Wardogs | 2016
+1839606 | The Wolf Of Wall Street | 2013
+1834210 | The Avengers | 2012
